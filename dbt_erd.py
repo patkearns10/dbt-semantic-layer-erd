@@ -266,8 +266,8 @@ def list_semantic_models(manifest):
                     semantic_model["name"],
                     semantic_model["node_relation"]["alias"],
                     measure["name"],
-                    f'measure: {measure["agg"]} - {measure["expr"]}',
-                    measure["description"],
+                    f'measure: {measure["agg"]}',
+                    f'{measure["description"]} | expr: {measure["expr"]}',
                     )
                 )
     
