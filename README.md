@@ -22,6 +22,9 @@ and the ability to export:
 
 Or use the interactive version online: <https://dbt-semantic-layer-erd.streamlit.app/>
 
+Visualize ERD here:
+https://dbdiagram.io/home 
+
 
 ## Questions, comments, feedback?
 🧪 Extraordinarily experimental! 
