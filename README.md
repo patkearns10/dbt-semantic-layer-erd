@@ -3,7 +3,8 @@ A python script to run a streamlit app to output information relevant to dbt Sem
 
 
 ## Demo
-https://dbtlabs.zoom.us/clips/share/40y0ZEibbrQA8wh7fTVUeNNsYZuzRrmcLgovgHypTYAOh96xY6bTkoCKMP69SzEZacq5VAug-JljicV3oPG-Jx55.2zys01KRrxtnGwns
+[Streamlit - Semantic Layer ERD Demo](https://dbtlabs.zoom.us/clips/share/40y0ZEibbrQA8wh7fTVUeNNsYZuzRrmcLgovgHypTYAOh96xY6bTkoCKMP69SzEZacq5VAug-JljicV3oPG-Jx55.2zys01KRrxtnGwns)
+
 
 ## Outputs
 
