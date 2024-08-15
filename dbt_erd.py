@@ -252,7 +252,6 @@ def export_semantic_model_dbdiagram_file(manifest):
 
  
 def list_semantic_models(manifest):
-
     list_of_dicts = []
     def create_csv_dict(semantic_model, relation, field, type, description):
         return {
@@ -291,8 +290,8 @@ def list_semantic_models(manifest):
                     semantic_model["name"],
                     semantic_model["node_relation"]["alias"],
                     measure["name"],
-                    f'measure: {measure["agg"]} - {measure["expr"]}',
-                    measure["description"],
+                    f'measure: {measure["agg"]}',
+                    f'{measure["description"]} | expr: {measure["expr"]}',
                     )
                 )
     
